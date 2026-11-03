@@ -1,0 +1,73 @@
+[
+    {"study_hours": 1, "result": 0},
+    {"study_hours": 1, "result": 0},
+
+    {"study_hours": 2, "result": 0},
+    {"study_hours": 2, "result": 0},
+
+    {"study_hours": 3, "result": 0},
+    {"study_hours": 3, "result": 1},
+
+    {"study_hours": 4, "result": 0},
+    {"study_hours": 4, "result": 1},
+
+    {"study_hours": 5, "result": 0},
+    {"study_hours": 5, "result": 1},
+
+    {"study_hours": 6, "result": 0},
+    {"study_hours": 6, "result": 1},
+
+    {"study_hours": 7, "result": 1},
+    {"study_hours": 7, "result": 0},
+
+    {"study_hours": 8, "result": 1},
+    {"study_hours": 8, "result": 0},
+
+    {"study_hours": 9, "result": 1},
+    {"study_hours": 9, "result": 1},
+
+    {"study_hours": 10, "result": 1},
+    {"study_hours": 10, "result": 0},
+
+    {"study_hours": 11, "result": 1},
+    {"study_hours": 11, "result": 1},
+
+    {"study_hours": 12, "result": 1},
+    {"study_hours": 12, "result": 0},
+
+    {"study_hours": 13, "result": 1},
+    {"study_hours": 13, "result": 0},
+
+    {"study_hours": 14, "result": 1},
+    {"study_hours": 14, "result": 1},
+
+    {"study_hours": 15, "result": 0},
+    {"study_hours": 15, "result": 1},
+
+    {"study_hours": 16, "result": 0},
+    {"study_hours": 16, "result": 1},
+
+    {"study_hours": 17, "result": 1},
+    {"study_hours": 17, "result": 0},
+
+    {"study_hours": 18, "result": 0},
+    {"study_hours": 18, "result": 1},
+
+    {"study_hours": 19, "result": 0},
+    {"study_hours": 19, "result": 1},
+
+    {"study_hours": 20, "result": 0},
+    {"study_hours": 20, "result": 1},
+
+    {"study_hours": 21, "result": 0},
+    {"study_hours": 21, "result": 0},
+
+    {"study_hours": 22, "result": 0},
+    {"study_hours": 22, "result": 1},
+
+    {"study_hours": 23, "result": 0},
+    {"study_hours": 23, "result": 0},
+
+    {"study_hours": 24, "result": 0},
+    {"study_hours": 24, "result": 0}
+]
