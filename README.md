@@ -1,4 +1,4 @@
-# Student Approval Prediction / Previsão de Aprovação de Alunos
+# Student Approval Prediction
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -6,7 +6,7 @@
 
 ---
 
-## English Version
+## English
 
 ### About the Project
 
@@ -103,7 +103,7 @@ streamlit run main.py
 ---
 ---
 
-## Versão em Português
+## Português
 
 ### Sobre o Projeto
 
