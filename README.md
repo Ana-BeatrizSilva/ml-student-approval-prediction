@@ -4,6 +4,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
+![Student Approval Prediction Interface](assets/interface.png)
+
 ---
 
 ## English
@@ -52,6 +54,9 @@ ml-student-approval-prediction/
 ├── .streamlit/
 │   └── config.toml
 │
+├── assets/
+│   └── interface.png
+│
 ├── data/
 │   └── students.json
 │
@@ -91,6 +96,13 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 ```
+
+---
+
+### Updates
+
+- **Dataset Refinement (`data/students.json`):** Balanced class distribution and adjusted the approval threshold to reflect realistic study-hour patterns, preventing class-tie bias in the Decision Tree classifier.
+- **Documentation:** Added a preview screenshot of the Streamlit user interface to the repository.
 
 ---
 
@@ -149,6 +161,9 @@ ml-student-approval-prediction/
 ├── .streamlit/
 │   └── config.toml
 │
+├── assets/
+│   └── interface.png
+│
 ├── data/
 │   └── students.json
 │
@@ -188,6 +203,13 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 ```
+
+---
+
+### Atualizações
+
+- **Refinamento do Dataset (`data/students.json`):** Balanceamento da distribuição de classes e ajuste no limiar de aprovação para refletir padrões mais consistentes de horas de estudo, corrigindo o viés de empate na Árvore de Decisão.
+- **Documentação:** Adição de captura de tela demonstrando a interface da aplicação desenvolvida com Streamlit.
 
 ---
 
